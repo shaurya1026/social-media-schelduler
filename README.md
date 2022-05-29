@@ -18,10 +18,8 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 - Selenium
 - API for Various Social Media
 
-<h2 align= "center"><b>Open Source Programs we have been a part of</b></h2>
 
-<a href = "https://hakincodes.tech/"><h3 align= "center"><b> HakinCodes </b></h3></a> 
-<p align="center"><img width=30% src="logo.jpg"></p>
+
 
 <h2 align= "center"><b> Project Maintainers</b></h2>
 
@@ -30,9 +28,7 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 <img width=20% src="https://avatars2.githubusercontent.com/u/40017559?v=4">
 </p>
 
-<a href="https://github.com/smaranjitghose">
-<h4 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h4></a>
+
 
 
 
