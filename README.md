@@ -42,6 +42,7 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 <a href="./LICENSE"><h2 align= "center"><b> License</b></h2></a> 
 <p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
 
-<h2 align = "center"> <b>Made with 💖 for open source</b></h2>
+<h2 align = "center"> <b>
+  </b></h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
