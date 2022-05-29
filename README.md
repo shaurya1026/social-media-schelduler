@@ -21,11 +21,7 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 
 
 
-<h2 align= "center"><b> Project Maintainers</b></h2>
 
-<p align="center">
-<img width=20% src="https://avatars2.githubusercontent.com/u/46641503?v=4">&ensp;&ensp;&ensp;
-<img width=20% src="https://avatars2.githubusercontent.com/u/40017559?v=4">
 </p>
 
 
